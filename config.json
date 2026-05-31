@@ -2,6 +2,7 @@
   "features": {
     "example": true,
     "sudoku": true,
-    "leaderboard": true
+    "leaderboard": true,
+    "coop": true
   }
 }
