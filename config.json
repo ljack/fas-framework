@@ -1,8 +1,5 @@
 {
   "features": {
-    "example": true,
-    "sudoku": true,
-    "leaderboard": true,
-    "coop": true
+    "example": true
   }
 }
