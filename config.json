@@ -1,0 +1,6 @@
+{
+  "features": {
+    "example": true,
+    "sudoku": true
+  }
+}
