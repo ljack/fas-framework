@@ -1,6 +1,7 @@
 {
   "features": {
     "example": true,
-    "sudoku": true
+    "sudoku": true,
+    "leaderboard": true
   }
 }
